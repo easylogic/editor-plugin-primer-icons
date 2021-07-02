@@ -1,6 +1,6 @@
 {
   "name": "@easylogic/editor-plugin-primer-oct-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PrimerOct Icons plugin for easylogic studio",
   "main": "./dist/main.js",
   "module": "./src/index.js",
