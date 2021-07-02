@@ -1,3 +1,3 @@
-import FeatherIconsPlugin from './FeatherIconsPlugin';
+import PrimerOctIconsPlugin from './PrimerOctIconsPlugin';
 
-export default FeatherIconsPlugin;
+export default PrimerOctIconsPlugin;

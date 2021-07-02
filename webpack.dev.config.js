@@ -39,7 +39,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'webpack Boilerplate',
+      title: 'Primer Oct Icons Plugin For easylogic studio',
       template: path.resolve(__dirname, './src/index.html'), // template file
       filename: 'index.html', // output file
     }),

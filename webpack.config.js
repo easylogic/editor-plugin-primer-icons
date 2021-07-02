@@ -8,14 +8,14 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist/'),
     library: {
-      name: 'FeatherIconsPlugin',
+      name: 'PrimerOctIconsPlugin',
       type: 'umd',
       export: ['default']
     },
   },
   externals: {
     "@easylogic/editor": "@easylogic/editor",
-    "feather-icons": "feather-icons",
+    "@primer/octicons": "@primer/octicons",
   },
   resolve: {
     extensions: ['.js', '.jsx']
